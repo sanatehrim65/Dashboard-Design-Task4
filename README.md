@@ -1,4 +1,4 @@
-# Sales Dashboard – Data Analyst Task 4
+# Sales Dashboard – Data Analyst Task 3
 
 ## 📊 Objective:
 Create an interactive dashboard to present sales performance insights to business stakeholders.
